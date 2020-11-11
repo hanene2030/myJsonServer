@@ -1,14 +1,9 @@
-[
 {
-"id": 1,
-"title": "Hell0 1"
-},
-{
-"id": 2,
-"title": "Hello 2"
-},
-{
-"id": 3,
-"title": "Hello 3"
+  "books": [
+    { "id": 1, "title": "Emma", "author": "Jane Austen " },
+     { "id": 2, "title": "Northanger Abbey", "author": "Jane Austen " }
+  ],
+  "authors": [
+    { "id": 1, "name": "Jane Austen", "bookId": 1 }
+  ]
 }
-]
